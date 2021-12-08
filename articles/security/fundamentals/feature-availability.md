@@ -205,6 +205,7 @@ The following tables display the current Microsoft Sentinel feature availability
 
 | Feature | Azure | Azure Government  |
 | ----- | ----- | ---- |
+| [API support](/rest/api/securityinsights) | GA | GA |
 | **Incidents** | |
 |- [Automation rules](../../sentinel/automate-incident-handling-with-automation-rules.md) | Public Preview | Public Preview |
 | - [Cross-tenant/Cross-workspace incidents view](../../sentinel/multiple-workspace-view.md) |Public Preview | Public Preview |
