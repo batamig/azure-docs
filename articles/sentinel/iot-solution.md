@@ -2,6 +2,7 @@
 title: Connect Microsoft Defender for IoT with Microsoft Sentinel
 description: This tutorial describes how to integrate Microsoft Sentinel and Microsoft Defender for IoT with the Microsoft Sentinel data connector to secure your entire OT environment. Detect and respond to OT threats, including multistage attacks that may cross IT and OT boundaries.
 author: batamig
+ms.service: defender-for-iot
 ms.topic: tutorial
 ms.date: 06/20/2022
 ms.author: bagol
